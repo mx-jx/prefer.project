@@ -1,3 +1,4 @@
+source("renv/activate.R")
 usethis::use_mit_license(copyright_holder = 'mx-jx')
 cat('
 ')
