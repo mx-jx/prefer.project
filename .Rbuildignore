@@ -1,0 +1,8 @@
+^LICENSE\.md$
+^prefer\.project\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^README-.*\.png$
+analysis
+^\.github$
+^CODE_OF_CONDUCT\.md$
