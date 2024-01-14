@@ -2,8 +2,9 @@ Package: prefer.project
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R:
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("MJ", "Stowe", , "mjstowe@kirby.unsw.edu.au", role = c("aut", "cre"))
+Description: This repository contains the research compendium of the PREFER Project manuscript.  
+    The compendium contains all data, code, and text associated with this sub-section of the analysis
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8

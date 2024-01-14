@@ -1,0 +1,301 @@
+---
+title: Opioid agonist therapy preferences and associated factors among people who regularly use opioids in Australia
+author:
+  - name: MJ Stowe
+    orcid: 0000-0002-0760-5497
+    corresponding: true
+    email: mjstowe@kirby.unsw.edu.au
+    roles:
+      - Investigation
+      - Project administration
+      - Software
+      - Visualization
+    affiliations:
+      - The Kirby Institute, UNSW Syndey, Sydney Australia
+    footnote: 1
+  - name: Anna Conway
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - The Kirby Institute, UNSW Syndey, Sydney Australia
+  - name: Frederick Altice
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - Yale School of Medicine, Yale University, New Haven, Connecticut, United States
+  - name: Tom Hassett
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - Yale School of Medicine, Yale University, New Haven, Connecticut, United States
+  - name: Marianne Byrne
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - The National Drug and Alcohol Research Centre, UNSW Syndey, Sydney, Australia
+      - The Kirby Institute, UNSW Syndey, Sydney Australia
+  - name: Samantha Colledge
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - The National Drug and Alcohol Research Centre, UNSW Syndey, Sydney, Australia
+  - name: Phillip Read
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - Kirketon Road Centre, Sydney, New South Wales, Australia 
+      - Drug and Alcohol Services, Northern Sydney Local Health District, Sydney, New South Wales, Australia
+  - name: Mark Montebello
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - The National Drug and Alcohol Research Centre, UNSW Sydney, UNSW, Australia
+      - Drug and Alcohol Services, Northern Sydney Local Health District, Sydney, New South Wales, Australia
+      - University of Sydney, Sydney, New South Wales, Australia
+  - name: Jeremy Hayllar
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - Drug Health Service, South West Sydney Local Health District, New South Wales, Australia
+  - name: Sione Crawford
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    affiliations:
+      - Harm Reduction Victoria, Victoria, Australia
+  - name: Charles Henderson
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - New South Wales Users and AIDS Association (NUAA), Sydney, Australia
+  - name: Michael Farrell
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - The National Drug and Alcohol Research Centre, UNSW Sydney, Sydney, Australia
+  - name: Chris Gough
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - CAHMA
+  - name: Louisa Degenhardt
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    affiliations:
+      - The National Drug and Alcohol Research Centre, UNSW Syndey, Sydney, Australia
+  - name: Amy Peacock
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - The National Drug and Alcohol Research Centre, UNSW Syndey, Sydney, Australia
+  - name: Gregory J. Dore
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    affiliations:
+      - The Kirby Institute, UNSW Syndey, Sydney Australia
+  - name: Jason Grebely
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    footnote: 2
+    affiliations:
+      - The Kirby Institute, UNSW Syndey, Sydney Australia
+address:
+  - code: Some Institute of Technology
+    organization: Big Wig University
+    addressline: 1 main street
+    city: Gotham
+    state: State
+    postcode: 123456
+    country: United States
+  - code: Another University
+    organization: Department
+    addressline: A street 29
+    postcode: 2054 NX
+    city: Manchester,
+    country: The Netherlands
+footnote:
+  - code: 1
+    text: "This is the first author footnote."
+  - code: 2
+    text: "Another author footnote."
+abstract: |
+  **Background:** Opioid agonist therapy (OAT) is effective in mitigating adverse outcomes, with individual preference identified as key to enhancing treatment. We examined OAT preferences and associated factors in a national sample of people who regularly use opioids.**Methods:** In this cross-sectional study, 400 people were enrolled between October 2020-April 2021. Participants completed an interviewer-administered questionnaire with questions on sociodemographic, behavioural, drug use- and treatment-related characteristics. Multivariable logistic regression was used to evaluate factors associated with preference for methadone. **Results:** Among all participants (mean age 45, 42% female), 92% (n=366) indicated a preference for receiving OAT and 91% of those (n=352) [jg2]preferred a particular type of OAT. Among people who reported a preference for OAT, 61% (n=216) preferred methadone and 39% (n=136) preferred buprenorphine. Among those preferring buprenorphine (n=136), 50% (n=68) had a preference for sublingual/oral buprenorphine and 50% (n=68) had a preference for long-acting buprenorphine. Heroin (aOR 1.78, 95%CI:1.06, 3.00), non-prescribed pharmaceutical opioid use in the past month (aOR 2.23, 95%CI:1.07, 4.95), and ever receiving  methadone treatment (aOR 6.54, 95%CI:2.66, 17.91) was associated with increased odds of a preference for methadone. Ever receiving buprenorphine treatment was associated with decreased odds of a preference for methadone (aOR 0.19, 95%CI:0.10, 0.35). Among participants currently on treatment with a preference for OAT (n=301), 77% (n=180) of those receiving methadone (n=235) and 92% (n=61) of those receiving buprenorphine (n=66) were prescribed their preferred medication.  **Conclusions:** Among people who regularly used opioids, two-thirds preferred to receive methadone and of those preferring buprenorphine, around half indicated a preference for long-acting buprenorphine. Past month heroin and pharmaceutical opioid use, extramedical and prescribed methadone use associated with increased odds of a preference for methadone. The majority of those currently receiving OAT were prescribed their preferred medication.
+keywords: |
+  - Opioid agonist therapy
+  - Medications for opioid use disorder
+  - Methadone
+  - Buprenorphine
+  - Patient preferences
+bibliography: refs.bib
+layout:  3p # review = doublespace, 3p = singlespace, 5p = two-column
+preamble: |
+  \usepackage[nomarkers]{endfloat}
+  \linenumbers
+  \usepackage{setspace}
+  \doublespacing
+journal: "Drug and Alcohol Review"
+date: "`r Sys.Date()`"
+linenumbers: true
+numbersections: true
+biblio-style: elsarticle-harv # author year style for natbib - use 'elsarticle-num' or 'elsarticle-num-names' for numbered scheme
+classoption: preprint, 3p, authoryear # remove authoryear is not using `elsarticle-harv`
+# Use a CSL with `citation_package = "default"`
+# csl: https://www.zotero.org/styles/elsevier-harvard
+output: 
+  rticles::elsevier_article:
+    keep_tex: true
+    citation_package: natbib
+---
+
+
+# Introduction: Noise the nuisance
+
+To many, stochasticity, or more simply, noise,
+is just that -- something which obscures patterns we are trying to infer (Knape & de Valpine 2011); and an ever richer batteries of statistical methods are developed largely in an attempt to strip away this undesirable randomness to reveal the patterns beneath (Coulson 2001).  Over the past several decades, literature in stochasticity has transitioned from thinking of stochasticity in such terms; where noise is a nuisance that obscures the deterministic skeleton of the underlying mechanisms, to the recognition that stochasticity can itself be a mechanism for driving many interesting phenomena (Coulson et al. 2004).  Yet this transition from noise the nuisance to noise the creator of ecological phenomena has had, with a few notable exceptions, relatively little impact in broader thinking about stochasticity.  One of the most provocative of those exceptions has turned the classical notion of noise the nuisance on its head: recognizing that noise driven phenomena can become a tool to reveal underlying processes: to become noise the informer.  Here I argue that this third shift in perspective offers an opportunity to better bridge the divide between respective primarily theoretical and primarily empirical communities by seeing noise not as mathematical curiosity or statistical bugbear, but as a source for new opportunities for inference.
+
+
+In arguing for this shift, it essential to recognize this is a call for a bigger tent, not for the rejection of previous paradigms.  What I will characterize as 'noise the nuisance' reflects a predominately statistical approach, in which noise, almost by definition, represents all the processes we are not interested in that create additional variation which might obscure the pattern of interest.  By contrast, an extensive literature has long explored how noise itself can create patterns and explain processes from population cycling to coexistence.  These broad categories should be seen as a spectrum and not be mistaken for either a sharp dichotomy nor a reference to a strictly empirical-theoretical divide.  Each paradigm expands upon rather than rejects the previous notion of noise: the recognition that noise can create novel phenomena does not mean that noise cannot also obscure the signal of some process of interest.  Likewise, seeking to use noise as a novel source of information about underlying processes will be informed by both previous paradigms, as our discussion will illustrate.
+
+Numerical simulations permit poking and prodding investigation unencumbered by either experimental design or mathematical formalism.
+
+The code and data for the simulations in this paper are maintained at <https://github.com/cboettig/noise-phenomena>.
+
+To emphasize the underlying trend in the changing roles in which we
+see and understand noisy processes, I will also restrict my focus
+to relatively simple models primarily from population ecology context.
+Simplicity not only makes examples (in equations and in code) more
+tractable but also allows us to focus on aspects that are germane to many
+contexts rather than unique to particular complexities (Bartlett 1960; Levins
+41 1966).
+
+Nevertheless, that complexity matters -- few themes have been better
+emphasized in the theoretical literature (Bjørnstad & Grenfell 2001).  Both
+the foundational literature and recent research continue to echo the
+theme of understanding the impact different real world complexities
+have in stochastic dynamics.  As such, we will
+rely on both textbooks and recent reviews to provide a proper treatment
+of these issues, and focus on broader trends.
+
+This review is structured into three sections: Origins of noise, emergent
+phenomena, and noise-driven inference.  The first section lays the conceptual groundwork we will need, while also highlighting a shift to more and more mechanistically rooted descriptions of noise.  We will see where the common formulation of "deterministic skeleton plus noise term" comes from, how it  is best justified, and when it breaks down.  The second section introduces noise the creator, showing examples of ecological phenomena generated by stochasticity.  These examples will be familiar to most specialists but illustrate a different way of thinking than held by most ecologists, where noise is only a nuisance to be filtered or averaged out.  The third and final section, noise the informer, turns these examples back-to-front, asking what noise can tell us about a system: such as its underlying resilience or stability, or the approach of a catastrophic shift. Examples are fewer here, and have largely yet to benefit from the introduction of either the rigorous theorems or more complex models so plentiful in the previous sections.  Yet the promise of prediction, of early warning signs before tipping points, have spurred broad interest in such noise-based inference. This review is a call to both deepen the connection to mechanism and better formalize this thinking, but also look more broadly into other ways in which noisy phenomena can help inform and predict underlying processes.
+
+
+## Demographic stochasticity
+
+Demographic stochasticity refers to fluctuations in population sizes
+or densities that arise from the fundamentally discrete nature of
+individual birth and death events.  Demographic stochasticity is a
+particularly instructive case for illustrating a mechanism for how
+noise arises as an aggregate description from a lower-level mechanistic
+process.  We summarize the myriad lower-level processes that
+mechanistically lead to the event of a 'birth' in the population
+as a probability: In a population of N identical individuals at
+time t, a birth occurs with probability b_t(N_t) (_i.e._ a rate
+that can depend on the population size, N), which increases the
+population size to N+1. Similarly, death events occur with probability
+d_t(N_t), decreasing the population size by one individual, to N-1.  Assuming
+each of these events are independent, this is a state-dependent
+Poisson process. The change in the probability of being in state
+N is given by the sum over the ways to enter the state, minus the
+ways to leave the state: a simple expression of probability balance
+known as the master equation (Kampen 2007).  Note that in general
+this approach is equally applicable to stochastic transitions of any sort,
+not just step sizes of +/- 1 and not just birth and death events, but
+can include transitions between stage classes or trait values, including
+mutations to continuously-valued traits in evolutionary dynamics (e.g. Boettiger et al. 2010).
+
+
+The  Gillespie (1977) provides an exact algorithmcfor simulating demographic stochasticity at an individual level.
+
+The algorithm is a simple and direct implementation of the master equation, progressing in random step sizes determined by the waiting time until the next event. Free from both the approximations and mathematical complexity, the Gillespie algorithm is an interesting example of where we rely on a numerical implementation to check the accuracy of an analytic approximation, even in the case of simple models such as we will discuss.  Though the  algorithm is often maligned as numerically demanding, it can be run much more effectively even on large models on today's computers than when it was first developed in the 70s, and remains an underutilized approach for writing simple and approximation-free^[that is, free from the approximation made by SDE models as we see in the van Kampen example.  All models are, of course, only approximations.] stochastic ecological models.
+
+
+As our objective is to tie the origins of noise more closely to biological
+processes, it will be helpful to make the notion of a master equation concrete with a specific example.  We will focus on the classic case of Levins (1969) patch model, to illustrate the Gillespie algorithm and the van Kampen system size expansion
+
+\begin{align}
+\frac{\mathrm{d} n}{\mathrm{d} t} = \underbrace{c n \left(1 - \frac{n}{N}\right)}_{\textrm{birth}} - \underbrace{e n}_{\textrm{death}}, \label{levins}
+\end{align}
+
+where n individuals compete for a
+finite number of suitable habitats N.  Individuals die a constant
+rate e, and produce offspring at a constant rate c who then
+have a probability of colonizing an open patch that is simply
+proportional to the fraction of available patches, 1 - n/N.
+
+
+Figure 1 shows the results of two exact SSA simulations of the classic patch model of Levins (1969).
+
+# Conclusions
+
+This review has explored three paradigms in how noise is viewed throughout the ecological literature, which I have dubbed respectively: noise the nuisance, noise the creator, and noise the informer.  Noise can be seen as a nuisance almost by definition: in examining the origins of noise, we have seen how stochasticity is introduced not because ecological processes are random in some fundamental sense, but rather, because those processes are influenced by a complex combination of forces we do not model explicitly.  In this view, noise captures all that additional variation that is separate from the process of interest, and a rich array of statistical methods allow us to separate the one from the other in observations and experiments.  By examining the origins of noise, we have seen that despite the complex ways in this noise can enter a model, that a Gaussian white-noise approximation (Kampen 2007; Black & McKane 2012) is often appropriate given a limit of a large system size -- a fact often invokedn implicitly but rarely derived explicitly from the theorems of Kurtz (1978) and others.
+
+In this context, noise does not act to create phenomena of interest directly. The sudden transitions we seek to anticipate are still explained by the deterministic part of the model -- bifurcations. But nor is noise a nuisance that merely cloaks this deterministic skeleton from plain view: rather, it becomes a novel source of information that would be inaccessible from a purely deterministic approach.  I believe more examples of how noise can inform on underlying processes is possible, but will require greater dialog between these world views.
+
+
+# Acknowledgements
+
+The author acknowledges feedback and advice from the editor,
+Tim Coulson and two anonymous reviewers. This work was supported in
+part by  USDA National Institute of Food and Agriculture, Hatch
+project CA-B-INS-0162-H.
+
+# References
+
+# Acknowledgements
+
+<!-- The following line inserts a page break  -->
+
+\newpage
+
+# References
+
+<!-- The following line ensures the references appear here for the MS Word or HTML output files, rather than right at the end of the document (this will not work for PDF files):  -->
+
+::: {#refs}
+:::
+
+\newpage
+
+### Colophon
+
+This report was generated on `r Sys.time()` using the following computational environment and dependencies:
+
+```{r}
+#| label: colophon
+#| cache: false
+
+here::
+# which R packages and versions?
+if ("devtools" %in% installed.packages()) devtools::session_info()
+
+```
+
+
